@@ -24,11 +24,7 @@
 
 ## 📚What I Learned
 
-* 코드 기반 UI 구현
-  + `NSLayoutConstraint`
-* HTTP 통신
-  + `URLSession`
-  + `Callback Function` - `async`/`await` 키워드의 중요성
-* 동시성 프로그래밍
-  + `GCD`
-* MVC 디자인 패턴
+* `MVC` 디자인 패턴
+* `Code Based UI`로 UI를 구현하는 법
+* `URLSession`으로 HTTP 통신을 하는 법
+* 'GCD'를 이용한 동시서 프로그래밍
